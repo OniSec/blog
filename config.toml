@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-theme = "terminal"
+theme = "hugo-bearcub"
 paginate = 5
 
 [params]
