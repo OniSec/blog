@@ -4,17 +4,13 @@ menu: "main"
 weight: 1
 ---
 
-<div align="center">
-
 ![OniSec](https://raw.githubusercontent.com/OniSec/blog/main/static/images/transparent_onisec.png)
 
-  [LinkedIn](https://www.linkedin.com/in/vis-ible) |
-  [Github](https://github.com/OniSec) |
-  [Mastodon](https://defcon.social/@onisec "{rel='me'}") |
-  [Hack The Box](https://app.hackthebox.com/profile/1543354) |
-  [Try Hack Me](https://tryhackme.com/p/wakefield)
-
-
+[LinkedIn](https://www.linkedin.com/in/vis-ible) |
+[Github](https://github.com/OniSec) |
+[Mastodon](https://defcon.social/@onisec "{rel='me'}") |
+[Hack The Box](https://app.hackthebox.com/profile/1543354) |
+[Try Hack Me](https://tryhackme.com/p/wakefield)
 
 Welcome OniSec's security blog. Here I write about security related topics and provide updates on content creation. I create write-ups on CTF-like challenges, such as Hack The Box in my Gitbook. I am also working on documenting my methodology in my Gitbook.
 
@@ -25,5 +21,3 @@ There is javascript in Gitbook, can't really do anything about that if I want th
 [Gitbook Index](https://notes.onisec.org) | 
 [Gitbook Methodology](https://notes.onisec.org/Methodology) | 
 [Gitbook Writeups](https://notes.onisec.org/Writeups)
-
-</div>
