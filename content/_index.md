@@ -4,7 +4,7 @@ menu: "main"
 weight: 1
 ---
 
-![OniSec](https://onisec.org/static/images/transparent_onisec.png)
+<img src="../static/images/transparent_onisec.png">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vis-ible">LinkedIn</a> | 
