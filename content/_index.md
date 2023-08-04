@@ -6,8 +6,6 @@ weight: 1
 
 ![OniSec](https://raw.githubusercontent.com/OniSec/blog/main/static/images/transparent_onisec.png)
 
-[LinkedIn](https://www.linkedin.com/in/vis-ible) |
-[Github](https://github.com/OniSec) |
 [Mastodon](https://defcon.social/@onisec "{rel='me'}") |
 [Hack The Box](https://app.hackthebox.com/profile/1543354) |
 [Try Hack Me](https://tryhackme.com/p/wakefield)
