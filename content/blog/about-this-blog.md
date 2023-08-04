@@ -32,6 +32,6 @@ While the intention is to avoid using javascript, Cloudflare does inject some ja
 - `https://static.cloudflareinsights.com/beacon.min.js`
     - Cloudflare analytics: provides data on bandwidth usage, top countries visiting, performance data, client versions like how many visitors use HTTP/3, how many have adopted TLS 1.3. If you're interested in seeing the analytics let me know and I can do a blog post on what it looks like from the Cloudflare dashboard.
 
-There is javascript in Gitbook and it is not FOSS. I can't really do anything about that if I want the features that it comes with. If you have any recommendations as an alternative, let me know as I am researching as well.
+There is javascript in Gitbook and it is not FOSS. I can't really do anything about that if I want the features that it comes with. If you have any recommendations as an alternative, let me know as I am researching as well. Logseq is looking good, but I have not used it so I'm asking around.
 
 I may disable the `beacon.min.js` in the future. At this point I am still figuring out the platform, but I have no desire to know specific details about visitors. Still interesting to see spikes in activity from different countries.
