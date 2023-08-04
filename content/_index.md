@@ -3,33 +3,23 @@ title: "Home"
 menu: "main"
 weight: 1
 ---
+![OniSec](../static/images/transparent_onisec.png)
 
-# ᕦʕ •ᴥ•ʔᕤ Bear Cub
+<p align="center">
+  <a href="https://www.linkedin.com/in/vis-ible">LinkedIn</a> | 
+  <a href="https://github.com/OniSec">Github</a> | 
+  <a href="https://defcon.social/@onisec" rel="me">Mastodon</a> | 
+  <a href="ahttps://app.hackthebox.com/profile/1543354">Hack The Box</a> | 
+  <a href="https://tryhackme.com/p/wakefield">Try Hack Me</a>
+</p>
 
-Today's websites are bloated, slow, and full of scripts, ads, and trackers. This
-became so commonplace that we lost all sense of perspective, to the point that
-we now think multi-megabyte webpages are normal.
+Welcome OniSec's security blog. Here I write about security related topics and provide updates on content creation. I create write-ups on CTF-like challenges, such as Hack The Box in my Gitbook. I am also working on documenting my methodology in my Gitbook.
 
-> The internet has become a bloated mess. Huge JavaScript libraries, countless
-> client-side queries and overly complex frontend frameworks are par for the
-> course these days.
->
-> --- [Kev Quirk](https://512kb.club/)
+This blog is built on Hugo, hosted by Cloudflare (til I have more reason to migrate to a paid platform such as writefreely). This theme was specifically chosen to avoid Javascript, though I do recognize the irony of hosting with the Crimeflare honeypot. For that reason, TOR is supported, feel free to access this site using TOR.
 
-Let's change this, one website at a time! **Bear Cub** is a
-[Hugo](https://gohugo.io/) theme based on [Hugo
-Bear](https://github.com/janraasch/hugo-bearblog/) that takes care of speed and
-optimization, so you can focus on writing good content.
-
-It is free, multilingual, optimized for search engines, no-nonsense, responsive,
-light, and fast. Really fast.
-
-When compared to its predecessor, **Bear Cub** has a few
-[privacy](https://themarkup.org/blacklight?url=clente.github.io/hugo-bearcub/)
-and
-[accessibility](https://pagespeed.web.dev/report?url=https%3A%2F%2Fclente.github.io%2Fhugo-bearcub%2F)
-upgrades. It's also compatible with modern
-[security](https://github.com/clente/hugo-bearcub#secure) standards, so your
-users don't have to worry about browsing your website.
-
-Made with 💟 by [Caio lente](https://lente.dev/en).
+There is javascript in Gitbook, can't really do anything about that if I want the features that it comes with. To my knowledge, Gitbook is GPL so the javascript should be Stallman approved.
+<p align="center">
+  <a href="https://notes.onisec.org">Gitbook Index</a> | 
+  <a href="https://notes.onisec.org/Methodology">Gitbook Methodology</a> | 
+  <a href="https://notes.onisec.org/Writeups">Gitbook Writeups</a>
+</p>

@@ -72,6 +72,6 @@ enableRobotsTXT = true
   # in your website's metadata.
   [social]
     email = "onisec@onisec.org" # Added to the navbar so readers can reply to posts
-    twitter = "example" # Twitter handle (without '@')
+    #twitter = "example" # Twitter handle (without '@')
     #facebook_admin = "0000000000" # Facebook Page Admin ID
-    mastodon = "https://defcon.social/@onisec"
+    #mastodon = "https://defcon.social/@onisec"
