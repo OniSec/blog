@@ -9,9 +9,7 @@ weight: 1
 [Mastodon](https://defcon.social/@onisec) |
 [Hack The Box](https://app.hackthebox.com/profile/1543354) |
 [Try Hack Me](https://tryhackme.com/p/wakefield) | 
-[Gitbook Index](https://notes.onisec.org) | 
-[Methodology](https://notes.onisec.org/Methodology) | 
-[Writeups](https://notes.onisec.org/Writeups)
+[Write-ups & Methodology](https://notes.onisec.org)
 
 Welcome OniSec's security blog. Here I write about security related topics and provide updates on content creation. I create write-ups on CTF-like challenges, such as Hack The Box in my Gitbook. I am also working on documenting my methodology in my Gitbook.
 
