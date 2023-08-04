@@ -6,7 +6,7 @@ weight: 1
 
 ![OniSec](https://raw.githubusercontent.com/OniSec/blog/main/static/images/transparent_onisec.png)
 
-[Mastodon](https://defcon.social/@onisec "{rel='me'}") |
+[Mastodon](https://defcon.social/@onisec) |
 [Hack The Box](https://app.hackthebox.com/profile/1543354) |
 [Try Hack Me](https://tryhackme.com/p/wakefield) | 
 [Gitbook Index](https://notes.onisec.org) | 
