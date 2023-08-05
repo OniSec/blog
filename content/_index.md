@@ -13,7 +13,9 @@ Welcome OniSec's security blog. Here I write about security related topics and p
 
 If you're interested in learning and want to connect, feel free to reach out to me via email, Hack The Box forums, Mastodon. People preferring to remain anonymous can reach me on Session using the QR code below.  
 
-```QR Code
+{{< rawhtml >}}
+<pre>
+<span style="color: #FFFFFF;">
 05bc7dc3136c3671817595689a585525dc639139bde600d7c06ea57fd02d5f0426
  ▄▄▄▄▄▄▄  ▄      ▄  ▄  ▄▄▄ ▄▄▄▄▄▄▄
  █ ▄▄▄ █ ▀█▄█▀ ▀▀ ▀▄ ██    █ ▄▄▄ █
@@ -32,7 +34,9 @@ If you're interested in learning and want to connect, feel free to reach out to 
  █ ▄▄▄ █ ▄█▄█   █ ▄█▄▄▀▀ █▄▄▄█▄▀ ▀
  █ ███ █ █ █ ▀█▄▄█▄ ▀▄▀█▀▀▄▄▀▀▄▀▄ 
  █▄▄▄▄▄█ █ █ █▀▄█▀▄▀▀▄▀ ▀▄█ ▀▀▄▀▄ 
- ```
+</pre>
+</div>
+{{< /rawhtml >}}
 
 If you're looking for a Mastodon instance that has an onion service to reach out from, check out the [ieji.de](https://ieji.de) [onion service](https://iejideks5zu2v3zuthaxu5zz6m5o2j7vmbd24wh6dnuiyl7c6rfkcryd.onion/).
 
