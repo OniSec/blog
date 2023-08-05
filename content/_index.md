@@ -37,3 +37,16 @@ If you're interested in learning and want to connect, feel free to reach out to 
 If you're looking for a Mastodon instance that has an onion service to reach out from, check out the [ieji.de](https://ieji.de) [onion service](https://iejideks5zu2v3zuthaxu5zz6m5o2j7vmbd24wh6dnuiyl7c6rfkcryd.onion/).
 
 ![OniSec](https://raw.githubusercontent.com/OniSec/blog/main/static/images/transparent_onisec.png)
+
+{{< rawhtml >}}
+<pre>
+<span style="color: #9C50B6;">
+ ██████╗ ███╗   ██╗██╗███████╗███████╗ ██████╗
+██╔═══██╗████╗  ██║██║██╔════╝██╔════╝██╔════╝
+██║   ██║██╔██╗ ██║██║███████╗█████╗  ██║     
+██║   ██║██║╚██╗██║██║╚════██║██╔══╝  ██║     
+╚██████╔╝██║ ╚████║██║███████║███████╗╚██████╗
+ ╚═════╝ ╚═╝  ╚═══╝╚═╝╚══════╝╚══════╝ ╚═════╝
+</span>
+</pre>
+{{< /rawhtml >}}
