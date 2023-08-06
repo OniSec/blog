@@ -4,7 +4,7 @@ date = "2023-08-04T18:00:00-00:00"
 author = "OniSec"
 authorTwitter = "" #do not include @
 cover = ""
-tags = ["Cloudflare", "Hugo", "Privacy", "Setup"]
+tags = ["Cloudflare", "Hugo", "Privacy", "Setup", "Knowledge Garden"]
 keywords = ["", ""]
 description = ""
 showFullContent = false
@@ -32,6 +32,6 @@ While the intention is to avoid using javascript, Cloudflare does inject some ja
 - `https://static.cloudflareinsights.com/beacon.min.js`
     - Cloudflare analytics: provides data on bandwidth usage, top countries visiting, performance data, client versions like how many visitors use HTTP/3, how many have adopted TLS 1.3. If you're interested in seeing the analytics let me know and I can do a blog post on what it looks like from the Cloudflare dashboard.
 
-There is javascript in Gitbook and it is not FOSS. I can't really do anything about that if I want the features that it comes with. If you have any recommendations as an alternative, let me know as I am researching as well. Logseq is looking good, but I have not used it so I'm asking around.
+There is javascript in the [Relearn](https://github.com/McShelby/hugo-theme-relearn) Hugo theme that is used for the knowledge garden, however it functions mostly okay without javascript being enabled. It looks like only the search functionality, intra-document tabs, paging left and right with your keyboard, and the color theme settings do not work. I am going to be looking to default to darkmode because who likes light mode?
 
 I may disable the `beacon.min.js` in the future. At this point I am still figuring out the platform, but I have no desire to know specific details about visitors. Still interesting to see spikes in activity from different countries.
