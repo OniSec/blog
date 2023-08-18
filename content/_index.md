@@ -38,7 +38,7 @@ If you're interested in learning and want to connect, feel free to reach out to 
 </div>
 {{< /rawhtml >}}
 
-If you're looking for a Mastodon instance that has an onion service to reach out from, check out the [ieji.de](https://ieji.de) [onion service](https://iejideks5zu2v3zuthaxu5zz6m5o2j7vmbd24wh6dnuiyl7c6rfkcryd.onion/).
+If you're looking for a Mastodon instance that has an onion service to reach out from, check out the [infosec.exchange](https://infosec.exchange) [onion service](http://7jaxqg6lfcdtosooxhv5drpettiwnt6ytdywfgefppk2ol4dzlddblyd.onion/).
 
 {{< rawhtml >}}
 <div style="text-align: center;">
