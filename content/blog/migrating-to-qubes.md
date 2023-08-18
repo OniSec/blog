@@ -27,7 +27,7 @@ Speaking of the Qubes community, wow. This is a wonderful community of likeminde
 
 With that in mind, I’m still in the process of setting up my workspace. Once I am done my priority will be getting the Knowledge Garden cleaned up a bit so I can start adding writeups, documenting the attack lifecycle, and creating a framework within the knowledge garden that will help keep things organized. I will be looking to provide a general overview of the attack lifecycle and have sections that go into details for methodology.
 
-I will be adding a separate section that goes over different attack types, hopefully I can showcase vulnerable code, exploit examples, and how you would remediate those vulnerabilities. I am still debating on when to start worrying about CWEs, ATT&CK Matrix, but those will come in due time.
+I will be adding a separate section that goes over different attack types. Hopefully I can showcase vulnerable code, exploit examples, and how you would remediate those vulnerabilities. I am still debating on when to start worrying about CWEs, ATT&CK Matrix, but those will come in due time.
 
 The intention for all of this is to learn the material well enough to teach and showcase that knowledge while creating a learning resource for the the infosec community or even youth looking to learn and hopefully use what they learn for good.
 
